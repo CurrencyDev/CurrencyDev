@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CurrencyDev
-- 👀 I’m interested in ... tech ro tech scripts and useful software
-- 🌱 I’m currently learning ... nothing
+- 👀 I’m interested in ... Technology, weather, and other useful things
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... discord
 
