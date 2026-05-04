@@ -1,7 +1,7 @@
 # Hi, I’m @Seasonal_Currency
 - I’m interested in ... Technology, weather, and other useful things
 - I’m currently learning ... Python, TypeScript, and JavaScript.
-- How to reach me ... Discord (@currencydev), or email at mailto:seasonal@seasonalnet.org
+- How to reach me ... Discord (@currencydev), or email at seasonal@seasonalnet.org
 
 ## Thanks for reading.
 
