@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @CurrencyDev
-- 👀 I’m interested in ... Technology, weather, and other useful things
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... discord
+# Hi, I’m @Seasonal_Currency
+- I’m interested in ... Technology, weather, and other useful things
+- I’m currently learning ... Python, TypeScript, and JavaScript.
+- How to reach me ... Discord (@currencydev), or email at mailto:seasonal@seasonalnet.org
+
+## Thanks for reading.
 
 <!---
 CurrencyDev/CurrencyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
