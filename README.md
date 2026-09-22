@@ -1,4 +1,4 @@
-# Hi, I’m @Seasonal_Currency
+# Hi, I’m @seasonal.currency
 
 - I’m interested in ... Technology, weather, and other useful things
 - I’m currently coding in ... Python, TypeScript, and JavaScript, and recently Go!
